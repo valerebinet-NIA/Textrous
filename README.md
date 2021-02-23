@@ -1,0 +1,3 @@
+# Textrous
+
+Textrous! is a free web framework designed to automatically retrieve English words from a gene set. Textrous! aims to search "gene-documents", collections of genes and their associated literature based upon databases from PubMed, Jackson Laboratories, and the Online Mendelian Inheritance in Man. The algorithm behind Textrous! is latent semantic indexing, a technique used to discover the semantic structure of documents by examining statistical co-occurence patterns. As a result, Textrous! is capable of extracting both direct and indirect links between genes and words. 

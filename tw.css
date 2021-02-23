@@ -1,0 +1,102 @@
+h3
+{
+	padding:10px 0;
+	margin:0;
+	text-align:left;
+	vertical-align:middle;	
+}
+#main-nav
+{
+	display:inline;
+	float:left;
+        position:absolute;
+        top:25px;
+        right:10px;
+        list-style-type:none;
+        margin:10px;
+        padding:0;
+}
+#main-navli {
+        display:block;
+        font-weight:bold;
+        text-decoration:none;
+	margin:0px 0px 0px 0px;
+        padding:0px 0px 0px 0px;
+
+        width:100px;
+        background:#485e49;
+        color:#FFFFFF;
+        float:left;
+        text-align:center;
+}
+
+#main-navli a {
+	padding: 5px 0;
+}
+
+#sec-navli a {
+	padding: 5px 0;
+}
+
+#main-navli a:hover
+{
+        background:#a2b3a1;
+        color:#000;
+}
+
+#sec-nav
+{
+	display:inline;
+	float:left;
+        position:relative;
+        top:0;
+        left:0;
+        list-style-type:none;
+        margin:0px;
+        padding:0px 0px 0px 0px;
+}
+#sec-navli {
+        display:block;
+        text-decoration:none;
+        padding:0px 0;
+        width:200px;
+        background-color:#485e49;
+        color:#FFFFFF;
+        float:left;
+        text-align:center;
+}
+
+#sec-navli a:hover {
+        background:#a2b3a1;
+        color:#000;
+}
+
+#search{
+     border: 1px solid #000;
+     padding: 1px;
+}
+#text{
+     position:relative;
+     top:0px;
+     left:-20px;
+     border: 1px solid #000;
+     width:304px;
+     height:25px;
+     padding:2px;
+     padding-left: 5px;
+}
+#submit{
+     position:absolute;
+     top:0px;
+     background: #88f;
+     color: #fff;
+     font: 14px arial;
+     height: 25px;
+     font-weight: bold;
+     border: 1px solid #000;
+     cursor: pointer;
+}
+#submit:hover {
+     background: #55f;
+}
+
